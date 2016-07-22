@@ -1,7 +1,7 @@
 package net_test
 
 import "testing"
-import "github.com/hlandau/degoutils/net"
+import "github.com/hlandau/goutils/net"
 import "time"
 
 func TestBackoff(t *testing.T) {
